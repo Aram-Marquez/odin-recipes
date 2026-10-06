@@ -1,0 +1,30 @@
+*{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: bisque;
+    text-align: center;
+}
+.sub-title{
+    font-weight: bold;
+}
+ol,ul,h1{
+    background-color: beige;
+    margin: -8px;
+    padding: 10px;
+    padding-left: 30px;
+    margin-bottom: 10px;
+
+    
+}
+
+
+li{
+    background-color: inherit; 
+    
+  
+}
+a{
+    display:inline-block;
+    background-color: inherit;
+    
+    
+}
